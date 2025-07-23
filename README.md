@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is João Otávio, I'm a Full-stack Developer and Content Manager at dti digital</h2>
+<h2 align="left">Hi! My name is João Otávio, I'm a Full-stack Developer and Web Author at dti digital</h2>
 
 ###
 
